@@ -2,9 +2,9 @@
 layout: post
 title: Jesús como artista
 subtitle: 
-cover-img: 
-thumbnail-img: 
-share-img: 
+cover-img: https://i.postimg.cc/y80Z523b/lamp-2568890-1280.jpg
+thumbnail-img: https://i.postimg.cc/y80Z523b/lamp-2568890-1280.jpg
+share-img: https://i.postimg.cc/y80Z523b/lamp-2568890-1280.jpg
 tags: [Jesús, Vincent Van Gogh]
 author: 
 published: true
