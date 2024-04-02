@@ -92,14 +92,14 @@ rss-description: Este es el Blog de José Danois
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+ # twitter: true
+ # facebook: true
+ # linkedin: true
+ # vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "José Danois"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -197,7 +197,7 @@ footer-hover-col: "#0085A1"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "283450177263134"
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
 #commentbox: "" # Project ID, e.g. "5694267682979840-proj"
