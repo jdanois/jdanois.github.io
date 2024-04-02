@@ -2,9 +2,9 @@
 layout: post
 title: Jesús como artista
 subtitle: 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: 
+thumbnail-img: 
+share-img: 
 tags: [Jesús, Vincent Van Gogh]
 author: 
 published: true
@@ -13,7 +13,7 @@ El siguiente extracto es de una carta[^1] de Vincent Van Gogh a Emile Bernard, e
 
 "Solo entre todos los filósofos y sabios Jesús afirmó como base de su enseñanza una vida eterna, la infinidad del tiempo y la imperiosa necesidad de la verdad y de la dedicación completa. Él vivió decididamente como artista. Más grande que todos los artistas, él despreció el mármol, la arcilla y la paleta, ya que obraba en la carne viva. Es decir, este artista increíble, que no puede ser comprendido por el grosero instrumento que es nuestra mente moderna, nerviosa, desordenada, no hizo estatuas o cuadros o aun libros – lo dice él mismo – sino que creó hombres reales, vivos, inmortales.
 
-![img](https://www.plough.com/-/media/images/plough/article/2017/languages/van-gogh-es/vangoghwheatfieldsembed.jpg?h=512&w=600&la=es)
+![img](https://www.plough.com/-/media/images/plough/article/2017/languages/van-gogh-es/vangoghwheatfieldsembed.jpg?h=512&w=600&la=es){: .mx-auto.d-block :}
 
 Este gran artista (Jesús), pues, no escribió tampoco un solo libro. Sin duda le repugnaría la literatura cristiana en general. Porque ¡cuán raros en la literatura cristiana son los productos que puedan compararse favorablemente con el Evangelio de Lucas o las Cartas de Pablo, obras tan sencillas en su forma austera y marcial! Sin embargo, aunque el gran artista Jesús rechazaba poner sus ideas y sus sentimientos en libros, ciertamente no despreciaba la palabra hablada, especialmente la parábola. (¡Qué fuerza hay en los cuentos del sembrador, de la cosecha, de la higuera!) Y cuál de nosotros osaría decir que él mentía cuando profetizó con desdén la destrucción de lo que Roma había construido, aseverando a la vez: aunque pasarán el cielo y la tierra, mis palabras no pasarán.
 
