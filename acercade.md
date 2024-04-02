@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Compartiendo sobre la fe, el diario vivir y otras temas
+subtitle: Compartiendo sobre la fe, el diario vivir y otras temas.
 ---
 
 ![profile-pic-21.png](https://i.postimg.cc/s2wrGwqD/profile-pic-21.png)
