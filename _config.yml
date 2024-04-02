@@ -21,7 +21,7 @@ author: José Danois
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  # Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Apoyo: "https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL"
