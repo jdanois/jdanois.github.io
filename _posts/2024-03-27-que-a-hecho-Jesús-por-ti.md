@@ -40,3 +40,5 @@ Proclamó por todo el pueblo lo mucho que Jesús había hecho por él.
 ¡Gracias por leerme! 
 
 Sígueme en **[Facebook](https://www.facebook.com/danoisyzori)** o escríbeme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**. Si deseas recibir las publicaciones en tu corrreo electrónico puedes **[Suscribirte Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
+
+**Si deseas apoyar este Blog con una contribución lo puedes hacer [Aquí](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL).**
