@@ -27,4 +27,6 @@ Si deseas recibir las publicaciones en tu corrreo electrónico puedes **[Suscrib
 
 Tambien puedes ver mi boletín bajo [Pastor Danois](https://pastordanois.substack.com).
 
+**Si deseas apoyar este Blog con una contribución lo puedes hacer [Aquí](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL).**
+
 Gracias por tu visita.
