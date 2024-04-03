@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jesús como artista
+title: El Rey vuelve a la vida
 subtitle: 
-cover-img: 
-thumbnail-img: 
-share-img: 
+cover-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
+thumbnail-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
+share-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
 tags: [Jesús, Resurreción, Pascua]
 author: 
 published: false
@@ -47,7 +47,6 @@ En este día se hace conmemoración de los acontecimientos pascuales. La celebra
 
 La Iglesia entera (Hch 1:13ss) proclama el mensaje pascual; vive y actúa en virtud del hecho pascual, es Iglesia pascual. (BEMPE)
 
-<img width="670" height="350" src="resources/98cf4ce46dc0469c93cd11ecfde42066.jpg"/>
 
 ***EL SEÑOR RESUCITÓ***
 
