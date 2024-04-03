@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 subtitle: Compartiendo sobre la fe, el diario vivir y otras temas.
+cover-img: https://i.postimg.cc/fTVzhSTp/jesus-3759617-1280.jpg
 ---
 
 ![profile-pic-21.png](https://i.postimg.cc/s2wrGwqD/profile-pic-21.png)
