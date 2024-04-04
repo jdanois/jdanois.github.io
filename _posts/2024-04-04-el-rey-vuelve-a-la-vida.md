@@ -1,16 +1,14 @@
 ---
 layout: post
 title: El Rey vuelve a la vida
-subtitle: 
-cover-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
-thumbnail-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
-share-img: https://i.postimg.cc/fRJrQNbc/1-1.png)](https://postimg.cc/181HDbwX
+subtitle: Reflexiones sobre la Pascua - Editorial Clie
+cover-img: https://i.postimg.cc/fRJrQNbc/1-1.png
+thumbnail-img: https://i.postimg.cc/fRJrQNbc/1-1.png
+share-img: https://i.postimg.cc/fRJrQNbc/1-1.png)
 tags: [Jesús, Resurreción, Pascua]
 author: 
-published: false
+published: true
 ---
-Reflexiones sobre la Pascua: Domingo | El Rey vuelve a la vida  - Editorial Clie
-
 *Juan 20:1-23*
 
 **Vivirá por largos días (Is 53:10)** 
@@ -84,6 +82,18 @@ La Iglesia entera (Hch 1:13ss) proclama el mensaje pascual; vive y actúa en vir
 
 *Charles Wesley*
 
+---
+
 Sígueme en **[Facebook](https://www.facebook.com/danoisyzori)** o escríbeme por **[Correo Electrónico](mailto:josedanois@gmail.com)** o **[Telegram](https://t.me/jdanois)**. Si deseas recibir las publicaciones en tu corrreo electrónico puedes **[Suscribirte Aquí](https://follow.it/blog-de-jos-danois?leanpub).**
 
 **Si deseas apoyar este Blog con una contribución lo puedes hacer [Aquí](https://www.paypal.com/donate/?hosted_button_id=58Z46JV9G6MQL).**
+
+---
+
+**Citas literarias extraídas de:**
+
+[BEMH hace referencia a la Biblia de Estudio Matthew Henry](https://www.clie.es/biblias/biblia-de-estudio-matthew-henry)  
+
+[BEMPE hace referencia a Biblia de Estudio del Mensaje Profético y Escatológico](https://www.clie.es/biblias/biblia-estudio-mensaje-profetico-escatologico) 
+
+[BEP hace referencia a Biblia de Estudio Patrística](https://www.clie.es/biblias/biblias-de-estudio-patristica)
