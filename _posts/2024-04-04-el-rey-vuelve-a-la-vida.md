@@ -80,7 +80,7 @@ La Iglesia entera (Hch 1:13ss) proclama el mensaje pascual; vive y actúa en vir
 
 *Tus loores a cantar. ¡Aleluya!*
 
-*Charles Wesley*
+**Charles Wesley**
 
 ---
 
