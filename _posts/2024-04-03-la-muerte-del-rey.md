@@ -5,9 +5,9 @@ subtitle: Reflexiones sobre la Pascua - Editorial Clie
 cover-img: https://i.postimg.cc/HLDt08Yk/2-1.png
 thumbnail-img: https://i.postimg.cc/HLDt08Yk/2-1.png
 share-img: https://i.postimg.cc/HLDt08Yk/2-1.png
-tags: [Jesús, Su Muerte, Pascua]
+tags: [Jesús, Muerte, Pascua, Sacrificio]
 author: 
-published: false
+published: true
 ---
 *Lectura: Lucas 23*
 
