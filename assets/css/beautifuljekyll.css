@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: Verdana, sans-serif;
-  font-size: 1.094rem;
+  font-family: Merriweather, sans-serif;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
