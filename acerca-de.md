@@ -3,17 +3,11 @@ layout: single
 title: "Acerca de"
 author_profile: true
 ---
+### _Creciendo en la gracia y el conocimiento de Dios..._
 
-
----
-### José Danois
-
-_Creciendo en la gracia y el conocimiento de Dios..._
-
-Hola, bienvenidos a mi página personal. Un espacio donde comparto reflexiones acerca de la Fe, la Gracia, el Crecimiento Espiritual y el Diario Vivir. Un repositorio para mis pensamientos y las cosas que me interesan.
+Hola, soy José Danois, ministro del evangelio y creador de este blog. Aquí comparto reflexiones, estudios y recursos sobre la fe y la gracia.
 
 Te invito a que te unas a la conversación dejando tus comentarios en los artículos o en nuestro <a href="https://t.me/danoisblog" target="_blank">Canal</a>.
-
 
 ### Contacto
 
