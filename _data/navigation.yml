@@ -9,8 +9,8 @@
 
 main:
           
-  - title: "Acerca de"
-    url:
+  - title: "Acerca de" 
+    url: /acerca-de/
   
   - title: "Archivo"
     url: /year-archive/
