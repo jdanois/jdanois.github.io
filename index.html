@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: archive
 title: "Inicio"
 author_profile: true
+pagination: 
+  enabled: true
 ---
 
 <section class="page__content">
@@ -18,10 +20,13 @@ author_profile: true
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
 
-        <p class="page__meta">{{ post.date | date: "%d %b %Y" }}</p>
+        <p class="page__meta">
+          <i class="fas fa-calendar-alt"></i>
+          {{ post.date | date: "%d %b %Y" }}
+        </p>
 
         {% if post.excerpt %}
-          <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 35 }}</p>
         {% endif %}
 
         <a href="{{ post.url | relative_url }}" class="btn btn--primary">Leer más →</a>
@@ -32,11 +37,12 @@ author_profile: true
   {% if paginator.total_pages > 1 %}
     <nav class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination--pager">← Anterior</a>
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination--pager">← Entradas anteriores</a>
       {% endif %}
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination--pager">Siguiente →</a>
+        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination--pager">Entradas recientes →</a>
       {% endif %}
     </nav>
   {% endif %}
 </section>
+
