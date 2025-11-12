@@ -2,34 +2,38 @@
 layout: archive
 title: "Inicio"
 author_profile: true
-pagination: 
+pagination:
   enabled: true
 ---
 
 <section class="page__content">
   <div class="entries-list">
     {% for post in paginator.posts %}
-      <article class="archive__item">
+      <article class="archive__item post-card">
+        <div class="post-card-text">
+          <h2 class="archive__item-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+
+          <p class="page__meta">
+            <i class="fas fa-calendar-alt"></i>
+            {{ post.date | date: "%d %b %Y" }}
+          </p>
+
+          {% if post.excerpt %}
+            <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 35 }}</p>
+          {% endif %}
+
+          <a href="{{ post.url | relative_url }}" class="btn btn--primary">Leer más →</a>
+        </div>
+
         {% if post.header.image %}
-          <a href="{{ post.url | relative_url }}" class="archive__item-teaser">
-            <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}">
-          </a>
+          <div class="post-card-image">
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}">
+            </a>
+          </div>
         {% endif %}
-
-        <h2 class="archive__item-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
-
-        <p class="page__meta">
-          <i class="fas fa-calendar-alt"></i>
-          {{ post.date | date: "%d %b %Y" }}
-        </p>
-
-        {% if post.excerpt %}
-          <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 35 }}</p>
-        {% endif %}
-
-        <a href="{{ post.url | relative_url }}" class="btn btn--primary">Leer más →</a>
       </article>
     {% endfor %}
   </div>
