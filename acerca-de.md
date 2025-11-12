@@ -3,7 +3,8 @@ layout: single
 title: "Acerca de"
 author_profile: true
 ---
-### _Creciendo en la gracia y el conocimiento de Dios..._
+
+ _La exposición de tus palabras nos da luz y da entendimiento al sencillo. Salmo 119:130_
 
 Hola, soy José Danois, ministro del evangelio y creador de este blog. Aquí comparto reflexiones, estudios y recursos sobre la fe y la gracia.
 
