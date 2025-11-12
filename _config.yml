@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "es-PR"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Your Name / Apuntes de Fe y Gracia"
+title                    : "-Apuntes de Fe y Gracia-"
 title_separator          : "-"
 name                     : &name "José Danois"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
