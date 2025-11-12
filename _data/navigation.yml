@@ -9,11 +9,10 @@
 
 main:
           
+  - title: "Acerca de"
+    url:
+  
   - title: "Archivo"
     url: /year-archive/
-    
-  - title: "Acerca de"
-    url: 
-    
-  - title: "Guide"
-    url: /markdown/
+
+
