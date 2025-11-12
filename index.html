@@ -1,0 +1,42 @@
+---
+layout: home
+title: "Inicio"
+author_profile: true
+---
+
+<section class="page__content">
+  <div class="entries-list">
+    {% for post in paginator.posts %}
+      <article class="archive__item">
+        {% if post.header.image %}
+          <a href="{{ post.url | relative_url }}" class="archive__item-teaser">
+            <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}">
+          </a>
+        {% endif %}
+
+        <h2 class="archive__item-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+
+        <p class="page__meta">{{ post.date | date: "%d %b %Y" }}</p>
+
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {% endif %}
+
+        <a href="{{ post.url | relative_url }}" class="btn btn--primary">Leer más →</a>
+      </article>
+    {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+    <nav class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination--pager">← Anterior</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination--pager">Siguiente →</a>
+      {% endif %}
+    </nav>
+  {% endif %}
+</section>
