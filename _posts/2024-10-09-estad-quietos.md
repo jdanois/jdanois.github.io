@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Estad quietos"
-feed_image: /images/church-4911852_640.jpg
+feed_image: 
 excerpt: 
 categories: [Video]
 tags: [quietos]
