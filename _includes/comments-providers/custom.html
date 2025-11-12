@@ -1,20 +1,9 @@
 <!-- start custom comments snippet -->
-
-<!-- Span obligatorio para IntenseDebate -->
-<span id="IDCommentsPostTitle" style="display:none"></span>
-
-<script type="text/javascript">
-  // Cuenta de IntenseDebate
-  var idcomments_acct = '69fa2143255a25441557b4f682714705';
-
-  // Identificador único del post (recomendado por IntenseDebate)
-  var idcomments_post_id = '{{ page.url | slugify }}';
-
-  // URL completa del post
-  var idcomments_post_url = '{{ page.url | absolute_url }}';
+<script>
+var idcomments_acct = '69fa2143255a25441557b4f682714705';
+var idcomments_post_id;
+var idcomments_post_url;
 </script>
-
-<!-- Script principal de IntenseDebate -->
-<script type="text/javascript" src="https://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
-
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 <!-- end custom comments snippet -->
