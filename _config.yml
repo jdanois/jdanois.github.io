@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ministro del Evangelio"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "danoisblog@gmail.com" 
 
