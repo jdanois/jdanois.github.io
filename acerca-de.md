@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de
+author_profile: true
 permalink: /acerca-de/
 ---
 
