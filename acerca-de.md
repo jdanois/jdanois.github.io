@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Acerca de
+layout: single
+title: "Acerca de"
 author_profile: true
-permalink: /acerca-de/
 ---
+
 
 ---
 ### José Danois
