@@ -3,7 +3,7 @@ layout: single
 title: "Acerca de"
 author_profile: true
 ---
-
+![](/images/jesus-3759617_1280.jpg) 
  _La exposición de tus palabras nos da luz y da entendimiento al sencillo. Salmo 119:130_
 
 Hola, soy José Danois, ministro del evangelio y creador de este blog. Aquí comparto reflexiones, estudios y recursos sobre la fe y la gracia.
