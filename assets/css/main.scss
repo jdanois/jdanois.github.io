@@ -41,3 +41,64 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* === Diseño del feed con imagen a la derecha === */
+.post-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+
+  .post-card-text {
+    flex: 1 1 65%;
+  }
+
+  .post-card-image {
+    flex: 0 0 180px;
+    text-align: right;
+
+    img {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    }
+  }
+
+  .archive__item-title a {
+    color: #2b2b2b;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .archive__item-excerpt {
+    color: #4a3b2d;
+  }
+}
+
+/* Responsive: en pantallas pequeñas la imagen pasa abajo */
+@media (max-width: 768px) {
+  .post-card {
+    flex-direction: column;
+
+    .post-card-image {
+      text-align: center;
+      margin-top: 1rem;
+    }
+  }
+}
