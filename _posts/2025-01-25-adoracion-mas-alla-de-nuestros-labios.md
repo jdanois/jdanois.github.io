@@ -1,19 +1,11 @@
 ---
 layout: single
-title: Vivir de toda palabra que sale de su boca
-feed_image: /images/santabiblia.jpg
-excerpt: Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
-categories: [Biblia]
-tags: []
-hidden: false
----
-
-
----
-layout: post
 title: Adoración más allá de nuestros labios
-image: /images/Adoracion.png
-tags: [reflexión bíblica, adoración]
+feed_image: /images/Adoracion.png
+excerpt: Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
+categories: [Reflexión Bíblica]
+tags: [Adoración]
+hidden: false
 ---
 ![Adoración](/images/Adoracion.png)
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia. Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.
@@ -68,5 +60,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MTA2MTFdfQ==
+eyJoaXN0b3J5IjpbOTczOTE4NTczXX0=
 -->
