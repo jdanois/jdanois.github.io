@@ -8,6 +8,23 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+/* === Fuente principal: Lora === */
+body {
+  font-family: "Lora", serif !important;
+  font-weight: 400;
+  color: #3a2c1e; /* color cálido que combina con tu paleta */
+  line-height: 1.7;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lora", serif !important;
+  font-weight: 600;
+  color: #2d2418;
+  line-height: 1.3;
+}
+
+
+
 @import
     "vendor/breakpoint/breakpoint",
 
