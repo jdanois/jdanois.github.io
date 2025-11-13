@@ -8,6 +8,7 @@ tags: [Identidad]
 hidden: false
 ---
 ![Identidad](/images/identidad.jpg)
+
 Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
 -   **Romanos 3:24**  Somos justificados (declarados "no culpables" de pecado).
@@ -60,6 +61,6 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjI0NjQ4NywtMTI3ODk1MTAxNywyOT
+eyJoaXN0b3J5IjpbMTY3MzAxMDg4NSwtMTI3ODk1MTAxNywyOT
 M1NTAyMTRdfQ==
 -->
