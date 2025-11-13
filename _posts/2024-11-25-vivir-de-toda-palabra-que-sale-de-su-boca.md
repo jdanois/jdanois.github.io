@@ -2,18 +2,10 @@
 layout: single
 title: Vivir de toda palabra que sale de su boca
 feed_image: /images/santabiblia.jpg
-excerpt: Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
+excerpt: Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
 categories: [Biblia]
-tags: [Identidad]
+tags: []
 hidden: false
----
-
-
----
-layout: post
-title: Vivir de toda palabra que sale de su boca
-image: /images/santabiblia.jpg
-tags: [biblia]
 ---
 ![Biblia](/images/santabiblia.jpg) 
 > Jesús respondió: Escrito está: “No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”. Mateo 4:4
@@ -64,5 +56,5 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDQ2NjM0M119
+eyJoaXN0b3J5IjpbMTA5OTc4OTIyM119
 -->
