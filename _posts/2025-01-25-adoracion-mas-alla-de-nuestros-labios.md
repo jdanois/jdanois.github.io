@@ -2,7 +2,7 @@
 layout: single
 title: Adoración más allá de nuestros labios
 feed_image: /images/Adoracion.png
-excerpt: Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
+excerpt: Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia.
 categories: [Reflexión Bíblica]
 tags: [Adoración]
 hidden: false
@@ -60,5 +60,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczOTE4NTczXX0=
+eyJoaXN0b3J5IjpbMTQ2MTkzMTAyOV19
 -->
