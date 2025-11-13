@@ -26,12 +26,12 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   body {
     /* Se suma +0.15rem al tamaño que ya tenga el tema */
-    font-size: calc(1rem + 0.15rem);
+    font-size: calc(1rem + 0.10rem);
   }
 
   /* Si quieres aumentar también los títulos ligeramente en móvil */
   h1, h2, h3, h4, h5, h6 {
-    font-size: calc(1em + 0.1em);
+    font-size: calc(1em + 0.0em);
   }
 }
 
