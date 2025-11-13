@@ -2,7 +2,7 @@
 layout: single
 title: "Tu verdadera identidad en Cristo"
 feed_image: /images/identidad.jpg
-excerpt: 
+excerpt: Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 categories: [En Cristo]
 tags: [Identidad]
 hidden: false
@@ -60,5 +60,5 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNTUwMjE0XX0=
+eyJoaXN0b3J5IjpbLTEyNzg5NTEwMTcsMjkzNTUwMjE0XX0=
 -->
