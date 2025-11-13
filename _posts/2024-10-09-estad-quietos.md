@@ -11,8 +11,8 @@ hidden: false
 
 ***Estad quietos, y conoced que yo soy Dios… Salmos 46:10***
 
-**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte para recibir nuevas publicaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgxMjg3OTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTM2MjQ4MzZdfQ==
 -->
