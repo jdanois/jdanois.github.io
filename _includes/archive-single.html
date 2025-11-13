@@ -14,19 +14,39 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% unless page.no_images or page.url contains '/year-archive' %}
-  {% if include.type == "grid" and teaser %}
+    {%- assign hide_images_flag = false -%}
+
+{%- if page.no_images == true -%}
+  {%- assign hide_images_flag = true -%}
+{%- endif -%}
+
+{%- if include.no_images == true -%}
+  {%- assign hide_images_flag = true -%}
+{%- endif -%}
+
+{%- if page.url contains 'year-archive' -%}
+  {%- assign hide_images_flag = true -%}
+{%- endif -%}
+
+{%- comment -%}
+  Only render teaser if hide_images_flag is false AND there is a teaser.
+  We remove the check on include.type so it's impossible for an image to slip through.
+{%- endcomment -%}
+
+{%- unless hide_images_flag -%}
+  {%- if teaser -%}
     <div class="archive__item-teaser">
       <img src=
-        {% if teaser contains "://" %}
+        {%- if teaser contains "://" -%}
           "{{ teaser }}"
-        {% else %}
+        {%- else -%}
           "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
+        {%- endif -%}
         alt="">
     </div>
-  {% endif %}
-{% endunless %}
+  {%- endif -%}
+{%- endunless -%}
+
 
 
 
