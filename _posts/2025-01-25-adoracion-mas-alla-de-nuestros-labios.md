@@ -8,6 +8,7 @@ tags: [Adoración]
 hidden: false
 ---
 ![Adoración](/images/Adoracion.png)
+
 Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia. Incluso, existen libros y cursos sobre Adoración. Todo esto responde al contexto de la experiencia cúltica o congregacional. Es decir, cuando los creyentes se reúnen en sus congregaciones locales o en algún evento para adorar. De ahí el surgimiento de tantos ministerios de adoración en nuestras iglesias con sus respectivas liturgias.
 
 No cabe duda que esto ha estimulado la excelencia musical, la integridad de las canciones y una adoración Cristo céntrica. Todo esto está muy bien. De hecho, de alguna manera estamos emulando al salmista David, quien muchos siglos antes llevó la adoración a nuevos niveles en la experiencia cultica. La llevó del ritual a la expresión del corazón por medio de salmos, cánticos y alabanzas. Una expresión de gozo e incluso profética. Él estableció y organizó la adoración como ministerio en lo que se conoció como el Tabernáculo de David, que posteriormente sería el modelo a seguir en el templo de Salomón. David fue un adorador que se preocupó por llevar la adoración a otro nivel.
@@ -60,5 +61,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTkzMTAyOV19
+eyJoaXN0b3J5IjpbLTE3MDI5MDUwODVdfQ==
 -->
