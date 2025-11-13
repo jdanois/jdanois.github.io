@@ -1,4 +1,15 @@
 ---
+layout: single
+title: Vivir de toda palabra que sale de su boca
+feed_image: /images/santabiblia.jpg
+excerpt: Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
+categories: [Biblia]
+tags: [Identidad]
+hidden: false
+---
+
+
+---
 layout: post
 title: Vivir de toda palabra que sale de su boca
 image: /images/santabiblia.jpg
@@ -53,5 +64,5 @@ Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTE3NDU4OV19
+eyJoaXN0b3J5IjpbLTU0MDQ2NjM0M119
 -->
