@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Estad quietos"
-feed_image: 
+feed_image: /images/lighthouse1.jpg 
 excerpt: 
 categories: [Video]
 tags: [quietos]
