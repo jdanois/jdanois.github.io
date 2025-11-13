@@ -102,3 +102,52 @@
     }
   }
 }
+/* ==== Estilos personalizados para year-archive ==== */
+
+/* Contenedor general de cada año */
+.archive__subtitle {
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  border-bottom: 2px solid #e0d6c2;
+  color: #3a2c1e;
+}
+
+/* Cada entrada individual */
+.archive__item {
+  margin-bottom: 0.75em;
+  padding: 0.3em 0;
+}
+
+/* Título del post */
+.archive__item-title {
+  font-size: 1.05em;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.archive__item-title a {
+  text-decoration: none;
+  color: #2c2c2c;
+  transition: color 0.2s ease;
+}
+
+.archive__item-title a:hover {
+  color: #a67c52;
+}
+
+/* Fecha */
+.archive__item-date {
+  font-size: 0.9em;
+  color: #7a6a58;
+  margin: 0.15em 0 0 0;
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+}
+
+.archive__item-date i {
+  font-size: 0.85em;
+  opacity: 0.7;
+}
