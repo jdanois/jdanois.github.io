@@ -58,7 +58,8 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
   
 -   **2 Timoteo 2:10**  Tendremos gloria eterna.
 
-**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg5NTEwMTcsMjkzNTUwMjE0XX0=
+eyJoaXN0b3J5IjpbMTQyNjI0NjQ4NywtMTI3ODk1MTAxNywyOT
+M1NTAyMTRdfQ==
 -->
