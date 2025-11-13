@@ -101,6 +101,10 @@ Así que, te invito a que hoy mismo comiences a prestar atención a tu vida inte
 
 No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comienza en el interior. Recuerda **sobre toda cosa guardada, guarda tu corazón, porque de él mana la vida.**
 
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 
 [^1]:Jeremías 17:9
 [^2]:Efesios 4:30-32
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NjU2Mzg4MzJdfQ==
+-->
