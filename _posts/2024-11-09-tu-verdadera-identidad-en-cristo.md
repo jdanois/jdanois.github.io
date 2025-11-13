@@ -54,3 +54,8 @@ Si eres un hijo de Dios (Juan 1:12) deberías meditar en tu nueva identidad.
 -   **Colosenses 2:11**  Somos libres de nuestros malos deseos.
   
 -   **2 Timoteo 2:10**  Tendremos gloria eterna.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA0MjA4OTAyXX0=
+-->
