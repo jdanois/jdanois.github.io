@@ -50,3 +50,8 @@ Hay cosas para las cuales la provisión física o material, por más abundante q
 Pero la Palabra de Dios que sale de su boca es suficiente para todo lo que necesitamos los creyentes, los seres humanos, que no solo somos lo que sé ve externamente, sino que también somos espíritu y alma. Hay una parte espiritual dentro de nosotros que solo puede ser alimentada por la palabra de Dios.
 
 Es por esa razón que cada día necesitamos el pan nuestro de cada día, no solo el pan material, sino la palabra de Dios que sale de su boca.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyMTE3NDU4OV19
+-->
