@@ -88,6 +88,40 @@ layout: default
     </div>
     
     {% if site.comments.provider and page.comments %}
+
+
+
+<!-- start custom comments snippet -->
+<p style="color:red; font-weight:bold;">Prueba GraphComment cargado ✅</p>
+
+<div id="graphcomment"></div>
+<script type="text/javascript">
+  var __semio__params = {
+    graphcommentId: "JDan",
+    behaviour: {
+      uid: "{{ page.url | slugify }}",
+    },
+  };
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params);
+  }
+
+  (function() {
+    var gc = document.createElement('script'); 
+    gc.type = 'text/javascript'; 
+    gc.async = true;
+    gc.onload = __semio__onload; 
+    gc.defer = true;
+    gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.head || document.body).appendChild(gc);
+  })();
+</script>
+<!-- end custom comments snippet -->
+
+
+
+    
       {% include comments.html %}
     {% endif %}
   </article>
