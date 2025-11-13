@@ -70,7 +70,6 @@ El apóstol Pablo[^2] nos habla de los enemigos que acechan nuestro corazón y q
     
 -   **Las mentiras:** la falta de verdad que corrompe nuestra integridad.
     
-
 Estas cosas que para muchas personas son “normales” en sus vidas echan a perder nuestro corazón y entristecen al Espíritu Santo". Son "ladrones que arruinan nuestro corazón". Cuando permitimos que estas cosas nos dominen, nuestra relación con Dios y con los demás se ve afectada.
 
 **Hay un Camino hacia la Sanidad: El Arrepentimiento**
@@ -107,8 +106,10 @@ No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comi
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 
+---
+
 [^1]:Jeremías 17:9
 [^2]:Efesios 4:30-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzU0ODA2MywtMTk2NTYzODgzMl19
+eyJoaXN0b3J5IjpbLTQ1ODE4MzAzNiwtMTk2NTYzODgzMl19
 -->
