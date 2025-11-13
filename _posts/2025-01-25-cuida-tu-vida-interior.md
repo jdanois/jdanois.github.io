@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: Cuida tu Vida Interior
-image: /images/corazon.jpg
-tags: [reflexión bíblica, corazón]
+feed_image: /images/corazon.jpg
+excerpt: En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo.
+categories: [Reflexión Bíblica]
+tags: [Corazón]
+hidden: false
 ---
 ![Corazón](/images/corazon.jpg)
+
 >"Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida" Proverbios 4:23
 
 En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo. Nos preocupamos por tener la ropa adecuada, el coche más moderno y las fotos más envidiables en las redes sociales. Pero, ¿qué pasa con nuestro interior? ¿Estamos dedicando el mismo esfuerzo a cultivar nuestra vida interior?
@@ -106,5 +110,5 @@ No olvides que la verdadera vida, la vida abundante que Dios tiene para ti, comi
 [^1]:Jeremías 17:9
 [^2]:Efesios 4:30-32
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU2Mzg4MzJdfQ==
+eyJoaXN0b3J5IjpbMTE5NzU0ODA2MywtMTk2NTYzODgzMl19
 -->
