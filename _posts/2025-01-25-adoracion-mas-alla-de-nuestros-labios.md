@@ -54,3 +54,8 @@ Vivir en obediencia significa responder a la vida de Cristo en nosotros. Es una 
 Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse, sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres; y estando en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz. Filipenses 2:5-8
 
 > Pero con Cristo estoy juntamente crucificado, y ya no vivo yo, sino que Cristo vive en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí. Gálatas 2:2
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg3MzI5NzE5XX0=
+-->
