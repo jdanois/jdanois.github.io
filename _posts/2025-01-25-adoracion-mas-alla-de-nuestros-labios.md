@@ -59,7 +59,7 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 > Pero con Cristo estoy juntamente crucificado, y ya no vivo yo, sino que Cristo vive en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí. Gálatas 2:2
 
-**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzYzODIwMTNdfQ==
 -->
