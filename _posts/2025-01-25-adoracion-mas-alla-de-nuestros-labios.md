@@ -1,4 +1,15 @@
 ---
+layout: single
+title: Vivir de toda palabra que sale de su boca
+feed_image: /images/santabiblia.jpg
+excerpt: Nadie puede negar que el pan (y lo que este representa) es necesario para la subsistencia humana.
+categories: [Biblia]
+tags: []
+hidden: false
+---
+
+
+---
 layout: post
 title: Adoración más allá de nuestros labios
 image: /images/Adoracion.png
@@ -57,5 +68,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 abajo ⬇️** y no olvides suscribirte gratis para recibir nuevas publicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MzI5NzE5XX0=
+eyJoaXN0b3J5IjpbLTE2ODE0MTA2MTFdfQ==
 -->
