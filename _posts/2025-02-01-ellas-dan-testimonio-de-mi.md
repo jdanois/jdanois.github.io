@@ -57,7 +57,7 @@ Esta es la historia de la redención que va desde el primer Adán, destituido de
 
 De eso trata la Biblia. Una historia que no ha terminado todavía porque sigue impactado y transformado las vidas de todo aquel que pone su fe en Cristo Jesús.
 
-Ahora, el problema con los judíos a los cuales Jesús les habla es que no entendieron de que y de quien se trataba la historia de las Escrituras. Como tantas personas que leen la Biblia y no pueden ver el mensaje central y fundamental de la misma.
+Ahora, el problema con los judíos a los cuales Jesús les habla es que no entendieron de qué y de quién se trataba la historia de las Escrituras. Como tantas personas que leen la Biblia y no pueden ver el mensaje central y fundamental de la misma.
 
 Cuando Jesús les habla a estos judíos estudiosos de las Escrituras, les habla porque ellos no habían comprendido realmente de que se trataba la Escritura y a quién señalaban.
 
@@ -113,9 +113,9 @@ Vallamos a la Escritura con hambre de Cristo y pidámosle al Espíritu Santo: re
 
 No leamos la Biblia para encontrar algo, sino para encontrar alguien. Aquel que se quiere revelar, aquel que quiere darnos vida, Cristo Jesús.
 
-
+---
 
 [^1]: El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxNjAwNDJdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTg3NDIzMV19
 -->
