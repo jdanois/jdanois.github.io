@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: Más allá de la imposibilidad
-image: /images/imposibilidad.jpg
-tags: [reflexión bíblica]
+feed_image: /images/imposibilidad.jpg
+excerpt: En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo.
+categories: [Reflexión Bíblica]
+tags: 
+hidden: false
 ---
 ![Imposibilidad](/images/imposibilidad.jpg)
+
 >Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril; porque nada hay imposible para Dios. Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia. Lucas 1:38-38
 
 En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo. En esos momentos de oscuridad, nos preguntamos si nuestras oraciones llegan a algún lugar, si nuestros sueños se desvanecen en el aire, si la luz al final del túnel es solo una ilusión. No obstante, en lo más profundo de nuestro ser, reside la certeza de que Dios tiene un plan para cada uno de nosotros. Un plan perfecto y preciso que se despliega en el momento justo.
@@ -28,3 +32,6 @@ Dios tiene el poder de transformar lo imposible en posible. Sus acciones no se l
 No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el poder de hacer milagros en nuestras vidas. Solo necesitamos alimentar la llama de la fe, confiar en su tiempo perfecto y permitir que su voluntad se cumpla en nosotros.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Dj8gGf7-FVI?si=moWHmFjrYZDiczvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzY4NTE3MjldfQ==
+-->
