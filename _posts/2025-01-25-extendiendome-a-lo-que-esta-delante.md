@@ -4,7 +4,7 @@ title: Extendiéndome a lo que está delante
 feed_image: /images/carretera.jpg
 excerpt: Olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta...
 categories: [Reflexión Bíblica]
-tags: 
+tags: [Meta]
 hidden: false
 ---
 
