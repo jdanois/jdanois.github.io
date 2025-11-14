@@ -1,10 +1,15 @@
 ---
-layout: post
+layout: single
 title: Conocidos por Dios
-image: /images/conocidospordios.jpg
-tags: [reflexión bíblica]
+feed_image: /images/conocidospordios.jpg
+excerpt: Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional.
+categories: [Reflexión Bíblica]
+tags: [Conocidos]
+hidden: false
 ---
+
 ![Conocidos](/images/conocidospordios.jpg)
+
 > *Ahora conozco en parte; pero entonces conoceré como fui conocido. 1 Corintios 13:12*
 
 Es natural que el ser humano anhele ser conocido, comprendido y amado de una manera profunda e incondicional. Sin embargo, a menudo buscamos esta seguridad en lugares equivocados: en las opiniones de los demás, en nuestros logros o posesiones, incluso en la imagen idealizada que proyectamos al mundo. Pero la verdadera paz y seguridad provienen de un lugar mucho más profundo y duradero: **ser conocidos por Dios.**
@@ -26,3 +31,5 @@ En un mundo lleno de incertidumbre y cambio constante, la certeza del amor y el 
 **Vivir bajo la mirada amorosa de Dios es una invitación a la libertad y la autenticidad.** No tenemos que esforzarnos por ser alguien que no somos o vivir con el temor constante al juicio. Podemos despojarnos de nuestras máscaras y acercarnos a Él con confianza, sabiendo que somos aceptados, amados y valorados tal como somos.
 
 En las palabras de John Piper: “Más profundo que conocer a Dios es ser conocido por Dios. Lo que nos define como cristianos no es que tan profundamente lo hayamos conocido, sino que él nos haya tomado en cuenta a nosotros y nos haya hecho suyos.” **Que esta verdad transforme nuestra manera de vivir, permitiéndonos descansar en la paz y la seguridad de ser conocidos y amados por un Dios que nos conoce mejor que nosotros mismos.**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️**
