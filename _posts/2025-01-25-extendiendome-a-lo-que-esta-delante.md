@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: Extendiéndome a lo que está delante
