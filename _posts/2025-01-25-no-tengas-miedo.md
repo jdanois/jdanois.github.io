@@ -4,7 +4,7 @@ title: No tengas miedo
 feed_image: /images/No-tengas-miedo.jpg
 excerpt: Al final de cada año, es natural mirar hacia atrás y reflexionar sobre lo que hemos vivido. Para muchos, este tiempo de reflexión puede estar lleno de emociones mezcladas...
 categories: [Reflexión Bíblica]
-tags: 
+tags: [Temor]
 hidden: false
 ---
 
