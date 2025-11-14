@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Extendiéndome a lo que está delante
-feed_image: /images/carretera.jpg
+feed_image: 
 excerpt: Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante...
 categories: [Reflexión Bíblica]
 tags: 
@@ -55,5 +55,5 @@ Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTMxNTQyN119
+eyJoaXN0b3J5IjpbLTEwOTYzNDUwODEsMTcxMTMxNTQyN119
 -->
