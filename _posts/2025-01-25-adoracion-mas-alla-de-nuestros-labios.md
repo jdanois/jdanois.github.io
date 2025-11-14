@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Adoración más allá de nuestros labios
-feed_image: /images/Adoracion.png
+feed_image: 
 excerpt: Hoy en día nos hemos especializado en la adoración. Nos preocupa como ser mejores adoradores o como llevar una “buena” adoración en el servicio de la Iglesia.
 categories: [Reflexión Bíblica]
 tags: [Adoración]
@@ -62,5 +62,5 @@ Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús, el cual,
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDQ1NDg2OSwtMTc3NjM4MjAxM119
+eyJoaXN0b3J5IjpbLTQ0MzIyNTI4MCwtMTc3NjM4MjAxM119
 -->
