@@ -357,7 +357,7 @@ compress_html:
   ignore:
     envs: development
 
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 plugins:
   - jekyll-paginate
