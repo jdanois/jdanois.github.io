@@ -2,19 +2,14 @@
 layout: single
 title: No tengas miedo
 feed_image: /images/No-tengas-miedo.jpg
-excerpt: En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo.
+excerpt: Al final de cada año, es natural mirar hacia atrás y reflexionar sobre lo que hemos vivido. Para muchos, este tiempo de reflexión puede estar lleno de emociones mezcladas...
 categories: [Reflexión Bíblica]
 tags: 
 hidden: false
 ---
 
----
-layout: post
-title:  No tengas miedo
-image: /images/No-tengas-miedo.jpg
-tags: [reflexión bíblica]
----
 ![Miedo](/images/No-tengas-miedo.jpg)
+
 Al final de cada año, es natural mirar hacia atrás y reflexionar sobre lo que hemos vivido. Para muchos, este tiempo de reflexión puede estar lleno de emociones mezcladas: alegría por los logros alcanzados, tristeza por las pérdidas sufridas y, tal vez, ansiedad por lo que depara el futuro.
 
 Si este es tu caso, quiero compartir contigo un mensaje de fe y esperanza que te alentará y fortalecerá. En el libro de Isaías capítulo 37, encontramos una historia poderosa que nos recuerda que, incluso en los momentos más oscuros, **Dios está con nosotros y nos da la victoria**.
@@ -46,6 +41,8 @@ Al igual que el rey de la historia, podemos encontrar refugio en la fe y confiar
 **Te animo a que entres a este nuevo año con la convicción de que Dios está contigo y que te guiará en cada paso del camino.** Deja atrás las cargas del pasado, los miedos y las dudas. Renueva tu fe en Dios y prepárate para recibir la victoria que Él ya ha preparado para ti.
 
 **En este nuevo año, que la paz, la esperanza y la victoria de Dios te acompañen.**
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIxMjA1MjFdfQ==
+eyJoaXN0b3J5IjpbNTAxOTk5MzIxXX0=
 -->
