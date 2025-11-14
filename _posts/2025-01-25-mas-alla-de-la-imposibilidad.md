@@ -32,6 +32,8 @@ Dios tiene el poder de transformar lo imposible en posible. Sus acciones no se l
 No importa cuán imposibles parezcan nuestras circunstancias, Dios tiene el poder de hacer milagros en nuestras vidas. Solo necesitamos alimentar la llama de la fe, confiar en su tiempo perfecto y permitir que su voluntad se cumpla en nosotros.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Dj8gGf7-FVI?si=moWHmFjrYZDiczvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY4NTE3MjldfQ==
+eyJoaXN0b3J5IjpbMTAwMjgyNzYwMiwtMTQzNjg1MTcyOV19
 -->
