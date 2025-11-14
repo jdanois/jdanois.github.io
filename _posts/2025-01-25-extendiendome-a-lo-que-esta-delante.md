@@ -2,10 +2,10 @@
 ---
 layout: single
 title: Extendiéndome a lo que está delante
-feed_image: /images/Adoracion.png
-excerpt: Olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta
+feed_image: /images/carretera.jpg
+excerpt: Olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta...
 categories: [Reflexión Bíblica]
-tags: [Adoración]
+tags: 
 hidden: false
 ---
 
@@ -57,5 +57,5 @@ Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyOTQxNDEsMTcxMTMxNTQyN119
+eyJoaXN0b3J5IjpbLTI5NjQ3MjA0OCwxNzExMzE1NDI3XX0=
 -->
