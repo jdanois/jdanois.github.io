@@ -4,7 +4,7 @@ title: Ellas dan testimonio de mí
 feed_image: /images/Juan316.jpg
 excerpt: Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida. Juan 5:39–40 NTV
 categories: [Reflexión Bíblica]
-tags: 
+tags: [Escrituras]
 hidden: false
 ---
 ![Juan316](/images/Juan316.jpg)
