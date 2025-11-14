@@ -2,19 +2,13 @@
 layout: single
 title: Extendiéndome a lo que está delante
 feed_image: /images/carretera.jpg
-excerpt: En un mundo que constantemente nos bombardea con la necesidad de una imagen perfecta, es fácil caer en la trampa de enfocarnos exclusivamente en lo externo.
+excerpt: Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante...
 categories: [Reflexión Bíblica]
-tags: [Corazón]
+tags: 
 hidden: false
 ---
-
----
-layout: post
-title: 
-image: /images/carretera.jpg
-tags: [reflexión bíblica]
----
 ![Carretera](/images/carretera.jpg)
+
 >*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
 
 El apóstol Pablo, en su carta a los Filipenses, presenta un mensaje poderoso  sobre la perseverancia y el crecimiento en la vida cristiana. A pesar de sus grandes logros y su profundo conocimiento de Cristo, Pablo reconoce que aún no ha alcanzado la meta. Pero, ¿cuál es esta meta que Pablo persigue con tanto fervor? Es el pleno conocimiento de Cristo, el experimentar el poder de su resurrección, y el vivir una vida que refleje su propósito. Como él mismo lo declara en Filipenses 3:12, no es que haya logrado todo, pero sigo adelante, luchando por alcanzar aquello para lo cual fue alcanzado por Cristo Jesús.
@@ -59,5 +53,5 @@ Pablo concluye este pasaje exhortando a los Filipenses, y a nosotros por extensi
 
 Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra madurez espiritual. Siempre hay más que aprender, más que crecer y más que experimentar de la gracia de Dios. Que podamos abrazar la actitud de Pablo, olvidando lo que queda atrás y extendiéndonos a lo que está delante, hacia la meta del supremo llamamiento de Dios en Cristo Jesús.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDYxNzQwMF19
+eyJoaXN0b3J5IjpbMzI5OTAxNThdfQ==
 -->
