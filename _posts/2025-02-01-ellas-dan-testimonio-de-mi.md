@@ -7,23 +7,15 @@ categories: [Reflexión Bíblica]
 tags: 
 hidden: false
 ---
-
-
----
-layout: post
-title: Ellas dan testimonio de mí
-image: /images/Juan316.jpg
-tags: [reflexión bíblica]
----
-
 ![Juan316](/images/Juan316.jpg)
+
 > Ustedes estudian las Escrituras a fondo porque piensan que ellas les dan vida eterna. ¡Pero las Escrituras me señalan a mí! Sin embargo, ustedes se niegan a venir a mí para recibir esa vida. Juan 5:39–40 NTV
 
 **¿Qué es la Biblia?** 
 
-Un cristiano te diría que la Biblia es un conjunto de 66 libros, que es la Palabra de Dios. Otro tipo de persona podría decirte que es un libro mágico. De hecho, algunos lo usan como amuleto. Para otros, la Biblia parece ser un libro de fórmulas o recetas a la manera de “cómo hacer esto”. Hay quienes buscan códigos ocultos en la Biblia. Un no creyente diría que la Biblia es un libro como cualquier otro y para los mas escépticos la Biblia es un libro para justificar todo tipo de violencia e injusticia en nombre de Dios.
+Un cristiano te diría que la Biblia es un conjunto de 66 libros, que es la Palabra de Dios. Otro tipo de persona podría decirte que es un libro mágico. De hecho, algunos lo usan como amuleto. Para otros, la Biblia parece ser un libro de fórmulas o recetas a la manera de “cómo hacer esto”. Hay quienes buscan códigos ocultos en la Biblia. Un no creyente diría que la Biblia es un libro como cualquier otro y para los más escépticos la Biblia es un libro para justificar todo tipo de violencia e injusticia en nombre de Dios.
 
-Para nosotros los creyentes la Biblia es la Palabra autorizada de Dios, inspirada por el Espíritu Santo, la cual nos cuenta una historia. Una historia por medio de la cual Dios se revela a sí mismo para que podamos conocerle.
+Para nosotros los creyentes, la Biblia es la Palabra autorizada de Dios, inspirada por el Espíritu Santo, la cual nos cuenta una historia. Una historia por medio de la cual Dios se revela a sí mismo para que podamos conocerle.
 
 **En esta historia hay varios protagonistas.**
 
@@ -125,5 +117,5 @@ No leamos la Biblia para encontrar algo, sino para encontrar alguien. Aquel que 
 
 [^1]: El verbo escudriñad, que es como se usa en la Reina Valera 60, tiene dos opciones: o imperativo (escudriñad) o indicativo (escudriñáis). En el gr. las dos formas se escriben igual y el contexto normalmente determina cuál corresponde. Aquí el contexto sugiere el modo indicativo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzkzNTE2MV19
+eyJoaXN0b3J5IjpbLTEyNDQxNjAwNDJdfQ==
 -->
