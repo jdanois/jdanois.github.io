@@ -14,7 +14,7 @@ Te invito a que te unas a la conversación dejando tus comentarios en los artíc
 ### Contacto
 
 - <a href="mailto:danoisblog@gmail.com" target="_blank">E-Mail ✉️</a>
-- <t.me/jdanois" target="_blank">Telegram</a>
+- <a href="https://t.me/jdanois" target="_blank">Telegram</a> 
 
 ### Apoyo
 
