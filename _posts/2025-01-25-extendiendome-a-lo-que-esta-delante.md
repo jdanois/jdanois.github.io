@@ -52,6 +52,8 @@ Pablo concluye este pasaje exhortando a los Filipenses, y a nosotros por extensi
 - Rodearnos de otros creyentes, quienes pueden animarnos y fortalecernos en nuestra fe.
 
 Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra madurez espiritual. Siempre hay más que aprender, más que crecer y más que experimentar de la gracia de Dios. Que podamos abrazar la actitud de Pablo, olvidando lo que queda atrás y extendiéndonos a lo que está delante, hacia la meta del supremo llamamiento de Dios en Cristo Jesús.
+
+**¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5OTAxNThdfQ==
+eyJoaXN0b3J5IjpbMTcxMTMxNTQyN119
 -->
