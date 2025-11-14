@@ -1,12 +1,14 @@
+
 ---
 layout: single
 title: Extendiéndome a lo que está delante
-feed_image: 
-excerpt: Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante...
+feed_image: /images/Adoracion.png
+excerpt: Olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta
 categories: [Reflexión Bíblica]
-tags: 
+tags: [Adoración]
 hidden: false
 ---
+
 ![Carretera](/images/carretera.jpg)
 
 >*Yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús. Filipenses 3:13-14*
@@ -55,5 +57,5 @@ Al igual que Pablo, nunca debemos pensar que hemos llegado a la cima de nuestra 
 
 **¿Qué piensas sobre este tema?** Deja tus comentarios **💬 Abajo ⬇️** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzNDUwODEsMTcxMTMxNTQyN119
+eyJoaXN0b3J5IjpbLTIwNzYyOTQxNDEsMTcxMTMxNTQyN119
 -->
