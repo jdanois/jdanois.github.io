@@ -1,4 +1,14 @@
 ---
+layout: single
+title: No tengas miedo
+feed_image: /images/No-tengas-miedo.jpg
+excerpt: En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo.
+categories: [Reflexión Bíblica]
+tags: 
+hidden: false
+---
+
+---
 layout: post
 title:  No tengas miedo
 image: /images/No-tengas-miedo.jpg
@@ -36,3 +46,6 @@ Al igual que el rey de la historia, podemos encontrar refugio en la fe y confiar
 **Te animo a que entres a este nuevo año con la convicción de que Dios está contigo y que te guiará en cada paso del camino.** Deja atrás las cargas del pasado, los miedos y las dudas. Renueva tu fe en Dios y prepárate para recibir la victoria que Él ya ha preparado para ti.
 
 **En este nuevo año, que la paz, la esperanza y la victoria de Dios te acompañen.**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NDIxMjA1MjFdfQ==
+-->
