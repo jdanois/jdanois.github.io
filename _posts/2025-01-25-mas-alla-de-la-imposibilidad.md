@@ -4,7 +4,7 @@ title: Más allá de la imposibilidad
 feed_image: /images/imposibilidad.jpg
 excerpt: En la vida, nos topamos con situaciones que parecen imposibles, obstáculos que nos hacen dudar y nos llenan de desánimo.
 categories: [Reflexión Bíblica]
-tags: 
+tags: [Nada es imposible]
 hidden: false
 ---
 ![Imposibilidad](/images/imposibilidad.jpg)
