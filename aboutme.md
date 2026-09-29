@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
+title: Acerca de
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![](https://i.postimg.cc/1zt6PtM8/biophoto2.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Bienvenidos a mi blog.
 
-What else do you need?
+Mi nombre es José Danois.
 
-### My story
+Este espacio es un repositorio para mis pensamientos y reflexiones acerca de la fe y la gracia. Comparto temas bíblicos y de crecimiento espiritual.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Si tienes comentarios** puedes dejarlos en la sección de comentarios debajo de las entradas. Me gustaría leer lo que tienes que decir.  
+
+**Contacto:** [Email](mailto:jdanois@hotmail.com) 
+
+Gracias por tu visita.
