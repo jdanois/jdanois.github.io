@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Why you'd want to go on a date with me
+subtitle: No se amolden al mundo actual, sino sean transformados mediante la renovación de su mente.
 ---
 
 ![](https://i.postimg.cc/1zt6PtM8/biophoto2.png)
