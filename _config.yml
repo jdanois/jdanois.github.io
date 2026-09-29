@@ -22,6 +22,7 @@ author: José Danois
 navbar-links:
   Blog: "https://jdanois.github.io/"
   Acerca de: "aboutme"
+  Archivo: "https://jdanois.github.io/tags/"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
