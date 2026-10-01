@@ -8,7 +8,7 @@ subtitle: No se amolden al mundo actual, sino sean transformados mediante la ren
 
 Bienvenidos a mi blog.
 
-Mi nombre es José Danois.
+Mi nombre es José Danois, ministro del evangelio.
 
 Este espacio es un repositorio para mis pensamientos y reflexiones acerca de la fe y la gracia. Comparto temas bíblicos y de crecimiento espiritual.
 
