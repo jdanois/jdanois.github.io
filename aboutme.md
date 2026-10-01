@@ -10,7 +10,7 @@ Bienvenidos a mi blog.
 
 Mi nombre es José Danois. Soy ministro del evangelio.
 
-Este espacio es un repositorio para mis pensamientos, reflexiones y contenido acerca de la fe y la gracia. Comparto temas bíblicos y de crecimiento espiritual.
+Este espacio es un repositorio para mis pensamientos, reflexiones y contenido sobre la fe y la gracia. Comparto temas bíblicos y de crecimiento espiritual.
 
 **Si tienes comentarios** puedes dejarlos en la sección de comentarios debajo de las entradas. Me gustaría leer lo que tienes que decir.  
 
