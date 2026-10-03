@@ -211,4 +211,4 @@ Ese era su propósito desde antes de la creación del mundo.
 
 ---
 
-¿Qué piensas? **Deja tus cometarios.** Me gustaría leer lo que tienes que decir.
+¿Qué piensas? **Deja tus comentarios.** Me gustaría leer lo que tienes que decir.
