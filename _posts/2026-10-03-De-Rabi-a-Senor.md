@@ -61,4 +61,4 @@ Jesús no solo vino a rescatarnos de una vida antigua; vino a enseñarnos una vi
 
 ---
 
-¿Qué piensas? **Deja tus cometarios.** Me gustaría leer lo que tienes que decir.
+¿Qué piensas? **Deja tus comentarios.** Me gustaría leer lo que tienes que decir.
