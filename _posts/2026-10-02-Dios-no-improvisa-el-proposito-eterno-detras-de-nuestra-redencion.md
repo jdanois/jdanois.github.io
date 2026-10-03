@@ -4,7 +4,7 @@ title: Dios no improvisa
 subtitle: El propósito eterno detrás de nuestra redención
 cover-img: 
 thumbnail-img: 
-share-img: 
+share-img: /assets/img/cruzenelcafe.jpg
 tags: [Reflexión Bíblica, Propósito Eterno]
 author: 
 published: true
