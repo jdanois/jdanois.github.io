@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guiados-por-el-viento-del-Espiritu
+title: Guiados por el viento del Espíritu
 subtitle: 
 cover-img: 
 thumbnail-img: 
