@@ -7,7 +7,7 @@ thumbnail-img:
 share-img: /assets/img/cruzenelcafe.jpg
 tags: [Enseñanza Bíblica]
 author: 
-published: true
+published: false
 ---
 > Recita siempre el libro de la ley y medita en él de día y de noche; cumple con cuidado todo lo que en él está escrito. Así prosperarás y tendrás éxito. Josué 1:8
 
