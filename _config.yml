@@ -23,6 +23,7 @@ navbar-links:
   Blog: "https://jdanois.github.io/"
   Acerca de: "aboutme"
   Suscríbete: "https://telescope.ac/jdanois/subscribe"
+  Telegram: "https://t.me/creciendoenlagracia"
   Donar: "https://www.paypal.com/donate?hosted_button_id=58Z46JV9G6MQL"
   Archivo: "https://jdanois.github.io/tags/"
   
@@ -75,7 +76,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: creciendoenlagracia
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
