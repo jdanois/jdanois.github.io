@@ -12,7 +12,9 @@ Mi nombre es José Danois. Soy ministro del evangelio.
 
 Este espacio es un repositorio para mis pensamientos, reflexiones y contenido sobre la fe y la gracia. Comparto temas bíblicos y de crecimiento espiritual.
 
-**Si tienes comentarios** puedes dejarlos en la sección de comentarios debajo de las entradas. Me gustaría leer lo que tienes que decir.  
+**Si tienes comentarios** puedes dejarlos en la sección de comentarios debajo de las entradas. Me gustaría leer lo que tienes que decir.
+
+También puedes unirte a nuestra comunidad en [Telegram](https://t.me/creciendoenlagracia) **Creciendo en la Fe y en la Gracia** donde seguimos la conversación.
 
 **Contacto:** [Email](mailto:jdanois@hotmail.com) 
 
