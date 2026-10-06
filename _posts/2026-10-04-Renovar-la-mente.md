@@ -126,6 +126,7 @@ Cuando la verdad de Dios se convierte en la interpretación que sostiene tu cora
 Señor, enséñame a reevaluar mis pensamientos a la luz de tu verdad y a permanecer en tu Palabra hasta que transforme mis emociones. Renueva mi mente, sana mi corazón y hazme constante en este proceso de cambio.
 
 Amén.
+
 ---
 
 ¿Qué piensas? **Deja tus comentarios.** Me gustaría leer lo que tienes que decir.
