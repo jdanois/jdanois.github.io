@@ -14,7 +14,7 @@ Este espacio es un repositorio para mis pensamientos, reflexiones y contenido so
 
 **Si tienes comentarios** puedes dejarlos en la sección de comentarios debajo de las entradas. Me gustaría leer lo que tienes que decir.
 
-También puedes unirte a nuestra comunidad en [Telegram](https://t.me/creciendoenlagracia) **Creciendo en la Fe y en la Gracia** donde seguimos la conversación.
+También puedes unirte a nuestra comunidad en [Telegram](https://t.me/creciendoenlagracia) **Creciendo en la Gracia y en la Fe** donde seguimos la conversación.
 
 **Contacto:** [Email](mailto:jdanois@hotmail.com) 
 
