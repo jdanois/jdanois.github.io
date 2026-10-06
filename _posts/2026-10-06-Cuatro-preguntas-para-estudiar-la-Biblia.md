@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cuatro preguntas para estudiar la Biblia y aplicarla a tu vida
+title:  Cuatro preguntas para estudiar la Biblia y aplicarla
 subtitle: 
 cover-img: 
 thumbnail-img: 
