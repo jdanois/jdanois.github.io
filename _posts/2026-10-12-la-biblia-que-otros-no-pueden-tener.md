@@ -106,7 +106,7 @@ Que la Biblia no sea solamente el libro que defendemos, citamos o llevamos a la 
 
 Que sea también el libro que leemos, comprendemos y ponemos en práctica.
 
-[^1]: https://www.baptistpress.com/resource-library/news/bible-access-restricted-for-over-500-million-christians-study-of-106-nations-finds/ 
+[^1]: [https://www.baptistpress.com/resource-library/news/bible-access-restricted-for-over-500-million-christians-study-of-106-nations-finds/](https://www.baptistpress.com/resource-library/news/bible-access-restricted-for-over-500-million-christians-study-of-106-nations-finds/ ) 
 
 ---
 
