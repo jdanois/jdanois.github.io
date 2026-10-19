@@ -12,7 +12,7 @@ published: true
 
 ## Contemplar
 
-La práctica de contemplación de las Escrituras [^1] es una forma íntima de comunicarse con el Señor (tradicionalmente se la conoce como Lectio Divina o «lectura divina»). Con demasiada frecuencia, en la oración y la adoración, hablamos con Dios, pero no le damos la oportunidad de comunicarse con nosotros. 
+La práctica de contemplación de las Escrituras[^1] es una forma íntima de comunicarse con el Señor (tradicionalmente se la conoce como Lectio Divina o «lectura divina»). Con demasiada frecuencia, en la oración y la adoración, hablamos con Dios, pero no le damos la oportunidad de comunicarse con nosotros. 
 
 > La contemplación es una herramienta que nos ayuda a usar la Palabra de
 > Dios para tener una conversación personal con Él.
