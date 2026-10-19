@@ -54,4 +54,4 @@ _© Phil Collins, Ph.D., 2014. Este material fue creado en colaboración con el 
 
 ---
 
-[^1]: **Crédito:** https://www.biblegateway.com/resources/scripture-engagement/contemplate/home
+[^1]: **Crédito:** [https://www.biblegateway.com/resources/scripture-engagement/contemplate/home](https://www.biblegateway.com/resources/scripture-engagement/contemplate/home)
